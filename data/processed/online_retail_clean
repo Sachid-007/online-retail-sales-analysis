@@ -1,0 +1,17 @@
+## Processed Dataset
+
+The cleaned and analysis-ready dataset (`online_retail_clean.csv`) is not uploaded to this repository due to GitHub file size limits.
+
+### Dataset Details
+- Source: Online Retail II Dataset (UCI Machine Learning Repository)
+- Records after cleaning: ~800,000
+- Cleaning steps:
+  - Removed missing Customer IDs
+  - Removed invalid quantity and price values
+  - Combined multi-year data
+  - Created revenue field
+
+### How to Reproduce
+1. Download the original dataset from the UCI repository
+2. Clean the data using the steps described in the report
+3. Load the cleaned data into PostgreSQL for analysis
