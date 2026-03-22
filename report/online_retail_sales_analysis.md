@@ -52,9 +52,9 @@ The high repeat rate indicates strong customer retention, but also highlights an
 6. Dashboard Overview
 An interactive Tableau dashboard was built to visualize:
 https://public.tableau.com/views/OnlineRetailAnalysis_17687434834630/OnlineRetailSalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-7. Business Recommendations
-1.  Focus marketing efforts on top-revenue products to maximize returns.
-2. Implement loyalty programs for high-value and repeat customers.
-3.  Leverage seasonal trends to plan promotions and inventory more effectively.
-4. Target one-time buyers with personalized offers to improve retention.
+7. Business Recommendations :
+  - Focus marketing efforts on top-revenue products to maximize returns.
+ -Implement loyalty programs for high-value and repeat customers.
+ - Leverage seasonal trends to plan promotions and inventory more effectively.
+- Target one-time buyers with personalized offers to improve retention.
 
