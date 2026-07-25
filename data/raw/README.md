@@ -3,7 +3,7 @@
 The raw dataset used in this project was obtained from a public source and is not included in this repository due to size and licensing considerations.
 
 ### Dataset Source
-- Name: Online Retail II Dataset
+- Name: Online Retail II Dataset (here) (https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 - Provider: UCI Machine Learning Repository
 - Time Period: 2009–2011
 
